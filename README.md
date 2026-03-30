@@ -1,9 +1,9 @@
-# dev-ai-toolkit
+# Awesome AI Developer Workflow
 A curated collection of battle-tested prompts, free tools, and resources designed to accelerate development, improve machine learning workflows, and streamline content creation.
 
 ---
 
-## 🧠 Master Prompts
+## Master Prompts
 
 Copy and paste these system instructions into your LLM of choice to get highly specific, optimized outputs.
 
@@ -24,7 +24,7 @@ Use this for writing documentation, emails, or copy that avoids the typical "AI 
 
 ---
 
-## 🌐 High-Value Websites & Platforms
+## High-Value Websites & Platforms
 
 * **All LLM Models (Free):** [Abacus.ai](https://abacus.ai) | [ChatHub](https://app.chathub.gg)
 * **3D & CAD Design:** [Zoo.dev](https://zoo.dev)
@@ -35,7 +35,7 @@ Use this for writing documentation, emails, or copy that avoids the typical "AI 
 
 ---
 
-## 🛠️ AI Tools: Paid vs. Free Alternatives
+## AI Tools: Paid vs. Free Alternatives
 
 A quick reference guide for top-tier generative AI tools, balancing premium options with their best free counterparts. 
 
