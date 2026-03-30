@@ -50,6 +50,7 @@ A quick reference guide for top-tier generative AI tools, balancing premium opti
 * **Cinematic Creation:** Runway ML (Paid) | Wan 2.6 (Free)
 * **Avatar Creation:** HeyGen (Paid) | SadTalker (Free)
 * **Presentation & Design:** Plus AI (Paid) | Gamma AI (Free)
+* **Note-Taking & Workspaces:** Reflect (Paid) | Notion (Free for individuals)
 * **Prompting:** Whisper Flow (Free)
 * **Automation:** OpenClaw (Free)
 
