@@ -32,7 +32,7 @@ Use this for writing documentation, emails, or copy that avoids the typical "AI 
 * **Animated Components:** [Anime.js](https://animejs.com)
 * **Full Stack App Generation:** [Blink.new](https://blink.new)
 * **Hardware Repair Guides:** [iFixit](https://ifixit.com)
-* * **Notes, Flashcards & Quizzes:** [Turbo AI](https://turbo.ai)
+* **Notes, Flashcards & Quizzes:** [Turbo AI](https://turbo.ai)
 * **Hardware & Circuit Simulation:** [Diode](https://withdiode.com)
 * **Text-to-Visual Concept Mapping:** [Napkin AI](https://napkin.ai)
 * **Interactive Coding Lessons:** [Coddy](https://coddy.tech)
